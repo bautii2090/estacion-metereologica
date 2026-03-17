@@ -2,7 +2,7 @@
 ## estacion-meteorologica-2026
 Proyecto integrador de Programacion,Robotica y Club de ciencias -5to Año PRoA
 
-*Elementos
+Elementos
 
 
 

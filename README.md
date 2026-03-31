@@ -6,7 +6,10 @@ Elementos
 
 
 
-
+   
 Inregrantes: "Bautista Grinóvero"
 
 Sensor de temperatura, humedad y presion
+
+
+
